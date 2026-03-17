@@ -1,0 +1,63 @@
+{
+  "extracted_fields": {
+    "Cohort": [
+      "Group A",
+      "Group B",
+      "Group C",
+      "Group D",
+      "Group E"
+    ],
+    "Dose (mg)": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "Participants": [
+      18,
+      20,
+      22,
+      20,
+      18
+    ],
+    "Cmax (ng/mL)": [
+      "Pharmacokinetic Summary",
+      112,
+      156,
+      203,
+      244
+    ],
+    "Tmax (h)": [
+      "Pharmacokinetic Summary",
+      1.8,
+      2.1,
+      2.3,
+      2.5
+    ],
+    "Half-life (h)": [
+      "Pharmacokinetic Summary",
+      9.4,
+      10.2,
+      11.1,
+      11.8
+    ]
+  },
+  "requested_fields": [
+    "Cohort",
+    "Dose (mg)",
+    "Participants",
+    "Cmax (ng/mL)",
+    "Tmax (h)",
+    "Half-life (h)"
+  ],
+  "file_path": "/content/drive/MyDrive/DocStrange/inputs/sample-1.docx",
+  "file_size": 21408,
+  "processor": "DOCXProcessor",
+  "paragraph_count": 5,
+  "section_count": 1,
+  "file_type": "docx",
+  "extractor": "ollama",
+  "format": "local_specified_fields",
+  "elapsed_time": "2.969s"
+}

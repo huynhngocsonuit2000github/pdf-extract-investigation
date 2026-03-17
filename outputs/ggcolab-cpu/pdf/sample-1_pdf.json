@@ -1,0 +1,126 @@
+{
+  "document": {
+    "Page1": {
+      "TableData": [
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": 2,
+          "Column2": 3,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": 2,
+          "Column2": 2,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": 2,
+          "Column2": 2,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": 2,
+          "Column2": 2,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        },
+        {
+          "Column1": null,
+          "Column2": null,
+          "Column3": null
+        }
+      ],
+      "ContactInformation": {
+        "Name": "J",
+        "Address": "2 E"
+      },
+      "FinancialData": {
+        "Price": 3,
+        "Total": 31
+      }
+    },
+    "Page1Heading": "Page 1",
+    "PageNumber": 1,
+    "Date": null
+  },
+  "file_path": "/content/drive/MyDrive/DocStrange/inputs/sample-1.pdf",
+  "file_type": "pdf",
+  "pages": 1,
+  "extraction_method": "ocr",
+  "format": "ollama_structured_json",
+  "extractor": "ollama",
+  "elapsed_time": "100.182s"
+}

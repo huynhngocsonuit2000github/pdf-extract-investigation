@@ -1,0 +1,16 @@
+Objectives,Endpoints
+Primary,Title,Time frame,Unit
+To compare the effect of NNC0487-XXXX versus placebo on insulin sensitivity in adults with T2D,Primary:
+To compare the effect of NNC0487-XXXX versus placebo on insulin sensitivity in adults with T2D,Change in M-value in HEC,Baseline to week 40,mg/min/kg
+To compare the effect of NNC0487-XXXX versus placebo on insulin sensitivity in adults with T2D,Secondary supportive:
+"Change in M-value in HEC, normalised by lean body mass",Baseline to week 40,mg/min/kg
+Secondary,Title,Time frame,Unit
+To compare the effect of NNC0487-XXXX versus placebo in adults with T2D on: Insulin sensitivity and pancreatic function Glucose control Beta-cell function,Key Supportive:
+To compare the effect of NNC0487-XXXX versus placebo in adults with T2D on: Insulin sensitivity and pancreatic function Glucose control Beta-cell function,Change in first-phase incremental Insulin Secretion Rate (ISR0-8min) in HGC,Baseline to week 40,pmol/min/m2
+To compare the effect of NNC0487-XXXX versus placebo in adults with T2D on: Insulin sensitivity and pancreatic function Glucose control Beta-cell function,Change in second-phase ISR (ISR20-120min) in HGC,Baseline to week 40,pmol/min/m2
+To compare the effect of NNC0487-XXXX versus placebo in adults with T2D on: Insulin sensitivity and pancreatic function Glucose control Beta-cell function,Change in total ISR (ISR0-120min) in HGC,Baseline to week 40,pmol/min/m2
+To compare the effect of NNC0487-XXXX versus placebo in adults with T2D on: Insulin sensitivity and pancreatic function Glucose control Beta-cell function,Change in ISR at fixed glucose concentration (ISRg) in HGC,Baseline to week 40,pmol/min/m2
+Change in total insulin response (total AUC0-120 min) in HGC,Baseline to week 40,min*pmol/L
+Change in β-cell glucose sensitivity (insulin secretion) from HGC,Baseline to week 40,pmol/min/m2/ (mmol/L)
+
+Elapsed time: 17.764s

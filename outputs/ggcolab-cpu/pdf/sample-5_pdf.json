@@ -1,0 +1,100 @@
+{
+  "document": {
+    "Protocol": {
+      "StudyID": "NN9490",
+      "Version": "1.0"
+    },
+    "VisitSchedule": [
+      {
+        "Day": 113,
+        "Week": 24,
+        "WindowDays": 38
+      },
+      {
+        "Day": 141,
+        "Week": 25,
+        "WindowDays": 38
+      },
+      {
+        "Day": 169,
+        "Week": 27,
+        "WindowDays": 38
+      },
+      {
+        "Day": 197,
+        "Week": 29,
+        "WindowDays": 38
+      },
+      {
+        "Day": 225,
+        "Week": 31,
+        "WindowDays": 38
+      },
+      {
+        "Day": 253,
+        "Week": 33,
+        "WindowDays": 38
+      }
+    ],
+    "LaboratoryAssessments": [
+      {
+        "Type": "In-house Baseline",
+        "Date": "2023-02-20"
+      },
+      {
+        "Type": "Antibodies",
+        "Date": "2023-03-01"
+      },
+      {
+        "Type": "Body Measurements",
+        "Date": "2023-04-15"
+      }
+    ],
+    "CGMData": [
+      {
+        "Fitted": true,
+        "RemovedAndUploaded": true
+      },
+      {
+        "HandOutIDCard": true,
+        "TrainingInTrialProductPenHandling": true,
+        "HandOutDirectionForUse": true,
+        "HandOutAndInstructInDiary": true,
+        "CollectAndReviewDiary": true
+      }
+    ],
+    "DoseSchedule": [
+      {
+        "Type": "Dose escalation/Dose maintenance",
+        "Date": "2023-05-01"
+      },
+      {
+        "Type": "Administralion of Trial Product",
+        "Date": "2023-06-15"
+      }
+    ],
+    "HyperglycaemicClamp": [
+      {
+        "Type": "Hyperinsulinaemic Euglycaemic Clamp",
+        "Date": "2023-07-01"
+      },
+      {
+        "Type": "Hyperglycaemic Clamp with Arginine Stimulation Test",
+        "Date": "2023-08-15"
+      }
+    ],
+    "AdLibitumMeal": [
+      {
+        "Type": "Administralion of Trial Product",
+        "Date": "2023-09-01"
+      }
+    ]
+  },
+  "file_path": "/content/drive/MyDrive/DocStrange/inputs/sample-5.pdf",
+  "file_type": "pdf",
+  "pages": 5,
+  "extraction_method": "ocr",
+  "format": "ollama_structured_json",
+  "extractor": "ollama",
+  "elapsed_time": "364.253s"
+}

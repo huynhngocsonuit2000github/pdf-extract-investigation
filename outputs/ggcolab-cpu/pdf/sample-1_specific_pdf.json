@@ -1,0 +1,19 @@
+{
+  "extracted_fields": {
+    "Protocol Section": "null",
+    "Screening": "null",
+    "In-house baselineDose escalation/Dose maintainance": "null"
+  },
+  "requested_fields": [
+    "Protocol Section",
+    "Screening",
+    "In-house baselineDose escalation/Dose maintainance"
+  ],
+  "file_path": "/content/drive/MyDrive/DocStrange/inputs/sample-1.pdf",
+  "file_type": "pdf",
+  "pages": 1,
+  "extraction_method": "ocr",
+  "format": "local_specified_fields",
+  "extractor": "ollama",
+  "elapsed_time": "88.269s"
+}

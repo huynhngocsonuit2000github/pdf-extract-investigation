@@ -1,0 +1,199 @@
+## Page 1
+
+25 November 2025/tatus: 1.0Page:
+
+25 November 2025/tatus:
+
+25 November 2025/tatus: FinalSponsor Version: 1.0Page: 9 of 123 Date:
+
+25 November 2025/tatus: Version: 1.0Page: Date:
+
+FinalSponsor A 9 of 123
+
+FinalSponsor
+
+Date: Version:
+
+IDate:
+
+ProtocoL
+
+Protocol Study ID: NN9490
+
+9 of 123
+
+Version:
+
+### Schedule of activities
+
+### Table 1-1 Schedule of activities table
+
+Table 1-1 Schedule of activities table
+
+Schedule of activities table
+
+Table 1-1
+
+|  |  |  |  |  | In-house Baseline |  |  | Dose escalation/Dose maintenance |  |  |  |  |  |  |  |  |  |  | In-house In-hC End of |  | In-house Follow-up |  | In-house Amb |  | Ambulatory Follow-up |  | 1 3 |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Visit |  | VIA" | VIB | VIC CGM | V2 D-3 |  | D-1 | VZD dose | V3 |  |  |  |  | V9 |  | VIl | V12 | V13 | V14' CGM | '140 V1S D-L | VISD LasL dose | V1S D2 | V1S D3 |  | V17 | 18| V19 | V19 V19 | 9V19 |
+| Timing of Visil Study Day |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 253 | 263 | 274 | 280 | 281 | 282 | 283 | 284 | 295 | 302 308 | 308 | 28d last |
+| Timing 0f Visit Study Week |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Visit Window (Days) |  | +38 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Informed Consent' | 10.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Demographyt |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Eligibility Criteri= | 51 5.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Randomisalion Criteria and Randomisalion | 54 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Discontinuation Criteria | 21 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Medical History | 8.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Concomitant Medication | 6.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tobacco, E-Cigarelte and | 53.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Screen For Alcohol? | 102 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Screen For Drugs" | 10.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Screen For Drugs" | 10.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+In-house 1 In-house In-house Ambulatory Baseline Dose escalation/Dose maintenance Dose maintenance End of Follow-up Follow-up ] trealment 3 V2DI VISDI VIC V2 V2 V14' V1S V15 V15 V19 V1g Visit VIA" VIB First V3 V4 VS V7 V8 V9 V12 V13 Last V16 V17 V18 | V19 CGM D-3 D-2 D-1 CGM D-1 D2 D3 D4 dose dose 28d Timing of Visit Study -10 113 141 169 197 225 253 263 274 280 281 282 283 284 288 | 295 302 308 alted last Timing of Visit Study Week ~3 -1 16 32 36 37 39 40 Visit Window (Days) +38 +7 +1 fl +3 Informed Consentb 10.1 X Demographyt 8.1 X 51 Eligibility Criteria" X 5.2 Randomisalion Criteria and 54 Randomisation Discontinuation Criteria 21 Medical History 8.1 X Concomitant Illness' Concomitant Medication 6.8 | X Tobacco, E-Cigarette and 53.2 X X Nicotine Products Uses Screen For Alcohol? 102 X X | X X Screen For Drugs" 10.2 X X | X Childbearing Potential 10.4 | X DJy
+
+## Page 2
+
+25 November 2025/tatus:
+
+25 November 2025/tatus: OPage:
+
+Date: 25 November 2025/tatus: FinalSponsor A Version: 1.0Page: 10 of 123
+
+Date: 25 November 2025/tatus: FinalSponsor A Version: 1.0Page: 10 of 123
+
+FinalSponsor
+
+10 of 123
+
+Date: Version:
+
+IDate:
+
+ProtocoL
+
+Protocol Study ID: NN9490 XXX
+
+1.OPage:
+
+10 of 123
+
+Version:
+
+|  |  |  |  |  | In-house Baseline |  |  | Dose escalation/Dose maintenance |  |  |  |  |  |  |  |  |  |  |  | In-house In-house End of Follow-up |  | In-house Am |  | In-house Ambulatory Follow-up Follow-up |  | Imbulatory Follow-up | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Visit |  | VIA' | VIB | VIC CGM | V2 D-3 |  |  | VZDL First dose | V3 |  |  |  | V8 |  | V1O | V1O | V12 | V12 | V14 CGM | V14' CGM | VISD V15 Last D-1 dose | VISDI Last dose | D2 | V15 D3 | V1S V16 D4 | V17 |  | V19 | V19 | V19 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Timing of Visit Study DJy |  |  |  |  |  |  |  |  |  |  |  | 113 | 141 | 169 | 197 | 197 | 253 |  | 263 | 274 | 280 | 280 281 | 282 | 283 | 284 288 | 295 | 295 | 308 | 308 | 28d alter last |  |  |  |  |  |  |  |  |  |  |  |  |
+| Timing of Visit Study Week |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Visit Window (Days) |  | +38 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Contraceplive Counselling" | 10.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pregnancy Testh | 8.3.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vital Signs |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Clinical Outcome Assessments | 8.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| SSRS Baselin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| SSRS Since Last Visit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Palient Health Questionnaire (PHO-9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CoEQ 19 NRS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| VAS Appetit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| VAS Appeal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Physical Examinalion | 8.3.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Eye Examination' | 8.3.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ECG | 8.3.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Eve | 84 |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | {X |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hypoglycaemic Episodes | 107 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+## Page 3
+
+25 November 2025/tatus:
+
+25 November 2025/tatus: OPage:
+
+Date: 25 November 2025/tatus: FinalSponsor A Version: 1.0Page: 11 of 123/
+
+Date: 25 November 2025/tatus: FinalSponsor A Version: 1.0Page: 11 of 123/
+
+FinalSponsor
+
+FinalSponsor A 11 of 123
+
+Date: Version:
+
+IDate:
+
+ProtocoL
+
+Protocol Study ID: NN9490 XXX
+
+Studv ID: NN9490
+
+11 of 123
+
+Version:
+
+|  |  |  |  |  | In-house Baseline |  |  | Dose escalation/Dose maintenance |  |  |  |  |  |  |  |  |  |  |  | In-house In-house End of Follow-up |  | In-house |  | In-house Follow-up |  | Ambulatory Follow-up | 1 | 1 1 |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Visit |  | VIA" | VIB | VIC CGM | D-3 |  | D-1 | VZDE First dose |  |  |  |  | V8 | V9 |  | '10 | V12 | V12 | V14' CGM | V14' CGM | V1S D-1 | Last dose | VI D2 | V1S D3 | D4 | V17 | V18 | V1g | V1g | VS |
+| Timing of Visil Study Day |  |  |  |  |  |  |  |  |  |  |  | 113 | 141 | 169 | 197 | 225 | 253 | 263 | 263 | 274 | 280 | 281 |  | 283 | 284 | 295 | 295 | 308 | 308 | 28d alter last |
+| Timing of Visit Study Week |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Visit Window (Days) |  | +38 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Laboratory Assessments | 10.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | x |  |
+| Antibodies | 8.9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Body Measurements | 82.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| MRI Scar | 8.2.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Waist Circumference | 82.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Body Weight | 8.2.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Height | 8.2.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| BMI | 8.2.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CGM Fitted | 8.2.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CGM Removed and Data Uploaded | 8.2.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hand OuL and Instruct in BG meler | 8.2.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Collect BG meter | 8.2.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mixed Meal Tolerance Test | 8.2.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+## Page 4
+
+25 November 2025/tatus:
+
+25 November 2025/tatusz Opage:
+
+Date: 25 November 2025/tatus: FinalSponsor Version: 1.0Page: 12 of 123
+
+25 November 2025/tatus: Version: 1.0Page: Date:
+
+FinalSponsor A 12 of 123
+
+Date: Version:
+
+IDate:
+
+Protocol Study ID: NN9490
+
+1.OPage:
+
+12 of 123
+
+Version:
+
+## Page 5
+
+|  |  |  |  |  | In-house Baseline |  |  |  | Dose escalation/Dose maintenance |  |  |  |  |  |  | Dose maintena |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Visit |  | VIA | VB | VIC CGM |  |  | D-1 | VZDI First |  |  |  |  |  | V8 |  | V1O | Vll | V12 |
+| Timing of Visil Study Day |  |  |  | -10 |  |  |  |  |  |  |  |  | 113 | 141 | 169 | 197 | 225 | 253 |
+| of Visil Study Week Timing |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 24 |  |  |  |
+| Visit Window (Days_ |  | +38 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ad Libitum Meal | 8.2.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hyperinsulinaemic Euglycaemic Clamp | 8.2.3- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hyperglycaemic Clamp with Arginine Stimulation Test" |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Administralion of Trial Product" |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dispensing Visit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Drug | 6.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Overnight Required Fasting | 5.31 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hand Out ID Card |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Training in Trial Product; Pen Handling |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hand Out Direction for Use |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hand Out and Instruct in Diary |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Collect and Review Diary | 10.1.8/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Elapsed time: 349.808s

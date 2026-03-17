@@ -1,0 +1,60 @@
+{
+  "document": {
+    "PatientData": {
+      "Demographics": {
+        "Age": null,
+        "Sex": null,
+        "Ethnicity": null,
+        "PregnancyStatus": null
+      },
+      "LabResults": {
+        "Creatinine": null,
+        "CystatinC": null,
+        "GFR": null,
+        "Albumin": null,
+        "Calcium": null,
+        "Gamma-Glutamyl Transferase (GGT)": null,
+        "International Normalised Ratio (INR)": null
+      },
+      "Urinalysis": {
+        "Urine pH": null,
+        "Urine Glucose": null,
+        "Urine Ketones": null,
+        "Bilirubin urine": null,
+        "Urobilinogen urine": null,
+        "Nitrite": null,
+        "Leukocytes in urine": null
+      },
+      "Serology": {
+        "HIV antibody": null,
+        "Hepatitis B surface antigen (HBsAg)": null,
+        "Hepatitis C virus antibody": null
+      }
+    },
+    "MedicationData": {
+      "Medications": [
+        {
+          "Name": null,
+          "Dosage": null,
+          "Frequency": null
+        }
+      ]
+    },
+    "StudyMetadata": {
+      "StudyID": null,
+      "StudyType": null,
+      "StudyDuration": null,
+      "StartDate": null,
+      "EndDate": null
+    }
+  },
+  "file_path": "/content/drive/MyDrive/DocStrange/inputs/sample-123.docx",
+  "file_size": 1038249,
+  "processor": "DOCXProcessor",
+  "paragraph_count": 1773,
+  "section_count": 145,
+  "file_type": "docx",
+  "extractor": "ollama",
+  "format": "ollama_structured_json",
+  "elapsed_time": "17.427s"
+}
