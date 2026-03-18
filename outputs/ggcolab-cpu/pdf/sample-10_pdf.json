@@ -1,0 +1,72 @@
+{
+  "document": {
+    "protocol": {
+      "study_id": "NN9490",
+      "version": "CONFIDENTIAL"
+    },
+    "dosing": {
+      "dosage": [
+        {
+          "name": "NNC0487-XXXX",
+          "dosage": [
+            "20 mg",
+            "5 mg",
+            "1.25 mg"
+          ]
+        },
+        {
+          "name": "placebo"
+        }
+      ],
+      "escalation": {
+        "regimen": "QW",
+        "dose escalation": [
+          {
+            "start_dose": "0.2 mg",
+            "end_dose": "60 mg"
+          },
+          {
+            "start_dose": "0.4 mg",
+            "end_dose": "60 mg"
+          }
+        ]
+      }
+    },
+    "study_design": {
+      "type": "parallel-group",
+      "randomization": {
+        "stratification": [
+          "sex",
+          "HbA1c"
+        ]
+      },
+      "inclusion_criteria": [
+        {
+          "condition": "overweight or obesity"
+        },
+        {
+          "condition": "TZD"
+        }
+      ],
+      "exclusion_criteria": [
+        {
+          "condition": "metformin treatment with SGLT2 inhibitors"
+        }
+      ]
+    },
+    "primary_endpoint": {
+      "endpoint_name": "M-value",
+      "description": "whole-body insulin sensitivity"
+    },
+    "end_of_study_definition": {
+      "definition": "last scheduled visit of the last participant in the study"
+    }
+  },
+  "file_path": "/content/drive/MyDrive/DocStrange/inputs/sample-10.pdf",
+  "file_type": "pdf",
+  "pages": 10,
+  "extraction_method": "ocr",
+  "format": "ollama_structured_json",
+  "extractor": "ollama",
+  "elapsed_time": "510.983s"
+}

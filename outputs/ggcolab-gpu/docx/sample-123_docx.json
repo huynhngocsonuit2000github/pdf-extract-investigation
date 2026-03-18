@@ -1,0 +1,73 @@
+{
+  "document": {
+    "PatientData": {
+      "Demographics": {
+        "Age": null,
+        "Sex": null,
+        "Ethnicity": null,
+        "Weight": null,
+        "Height": null
+      },
+      "LabResults": {
+        "Creatinine": null,
+        "Cystatin C": null,
+        "Albumin": null,
+        "Calcium, albumin-corrected": null,
+        "Gamma-Glutamyl Transferase (GGT)": null,
+        "International Normalised Ratio (INR)": null
+      },
+      "Urinalysis": {
+        "Urine pH": null,
+        "Urine Glucose": null,
+        "Urine Ketones": null,
+        "Bilirubin urine": null,
+        "Urobilinogen urine": null,
+        "Nitrite": null,
+        "Leukocytes in urine": null
+      },
+      "Serology": {
+        "HIV antibody": null,
+        "Hepatitis B surface antigen (HBsAg)": null,
+        "Hepatitis C virus antibody": null
+      },
+      "PregnancyTesting": {
+        "Pregnancy Test Serum": null,
+        "Pregnancy Test Urine": null
+      }
+    },
+    "MedicationData": {
+      "Medications": [
+        {
+          "Name": null,
+          "Dosage": null,
+          "Frequency": null
+        }
+      ]
+    },
+    "DoseData": {
+      "Doses": [
+        {
+          "Time": null,
+          "Amount": null,
+          "Unit": null
+        }
+      ]
+    },
+    "StudyData": {
+      "VisitNumber": null,
+      "VisitDate": null,
+      "VisitTime": null,
+      "VisitWindowDays": null,
+      "Estimated GFR in serum from Creatinine-Cystatin C 2021 CKD-EPI Formula Adjusted for standard BSAi": null
+    }
+  },
+  "file_path": "/content/drive/MyDrive/DocStrange/inputs/sample-123.docx",
+  "file_size": 1038249,
+  "processor": "DOCXProcessor",
+  "paragraph_count": 1773,
+  "section_count": 145,
+  "file_type": "docx",
+  "extractor": "ollama",
+  "format": "ollama_structured_json",
+  "elapsed_time": "16.295s"
+}
